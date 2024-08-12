@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
+        std::unordered_map<char, int> umap;
+        for(int i = 0; i<magazine.length(); i++){
+            char m = magazine[i];
+            int currentCount = umap[m];
+            umap[m] = currentCount + 1;
+        }
+
         for(int i = 0; i<ransomNote.length(); i++){
-            char value = ransomNote[i];
-            char key;
-            for(int j = 0; j<magazine.length(); j++){
-                key = magazine[j];
-                if(key == value){
-                    magazine[j] = '\0';
-                    break;
-                }
-                if(j==magazine.length()-1){
-                    return false;
-                }
+            char m = ransomNote[i];
+            int currentCount = umap[m];
+            if(currentCount == 0){
+                return false;
             }
+            umap[m] = currentCount - 1;
         }
         return true;
     }
