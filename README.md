@@ -23,4 +23,12 @@ self explanatory
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/krzysztof400/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krzysztof400/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krzysztof400/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
