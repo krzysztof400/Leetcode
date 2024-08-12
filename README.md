@@ -37,4 +37,12 @@ self explanatory
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/krzysztof400/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/krzysztof400/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
