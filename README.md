@@ -23,6 +23,7 @@ self explanatory
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krzysztof400/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/krzysztof400/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -42,6 +43,7 @@ self explanatory
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krzysztof400/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/krzysztof400/Leetcode/tree/master/1603-running-sum-of-1d-array) |
