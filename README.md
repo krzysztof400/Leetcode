@@ -23,6 +23,7 @@ self explanatory
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/krzysztof400/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ self explanatory
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/krzysztof400/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/krzysztof400/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Matrix
@@ -50,4 +52,8 @@ self explanatory
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/krzysztof400/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
