@@ -48,6 +48,7 @@ self explanatory
 | [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/krzysztof400/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/krzysztof400/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/krzysztof400/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +61,9 @@ self explanatory
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/krzysztof400/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+## Greedy
+|  |
+| ------- |
+| [3351-maximize-happiness-of-selected-children](https://github.com/krzysztof400/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
