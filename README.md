@@ -1,69 +1,11 @@
-# Leetcode
-self explanatory
+# LeetCode
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/krzysztof400/Leetcode/tree/master/0383-ransom-note) |
-## String
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/krzysztof400/Leetcode/tree/master/0383-ransom-note) |
-| [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
-## Counting
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/krzysztof400/Leetcode/tree/master/0383-ransom-note) |
-## Linked List
-|  |
-| ------- |
-| [0908-middle-of-the-linked-list](https://github.com/krzysztof400/Leetcode/tree/master/0908-middle-of-the-linked-list) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/krzysztof400/Leetcode/tree/master/0027-remove-element) |
-| [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
-| [0908-middle-of-the-linked-list](https://github.com/krzysztof400/Leetcode/tree/master/0908-middle-of-the-linked-list) |
-## Math
-|  |
-| ------- |
-| [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krzysztof400/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krzysztof400/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-## Simulation
-|  |
-| ------- |
-| [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/krzysztof400/Leetcode/tree/master/0027-remove-element) |
-| [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
-| [1603-running-sum-of-1d-array](https://github.com/krzysztof400/Leetcode/tree/master/1603-running-sum-of-1d-array) |
-| [1791-richest-customer-wealth](https://github.com/krzysztof400/Leetcode/tree/master/1791-richest-customer-wealth) |
-| [3351-maximize-happiness-of-selected-children](https://github.com/krzysztof400/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
-## Matrix
-|  |
-| ------- |
-| [1791-richest-customer-wealth](https://github.com/krzysztof400/Leetcode/tree/master/1791-richest-customer-wealth) |
-## Prefix Sum
-|  |
-| ------- |
-| [1603-running-sum-of-1d-array](https://github.com/krzysztof400/Leetcode/tree/master/1603-running-sum-of-1d-array) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/krzysztof400/Leetcode/tree/master/0088-merge-sorted-array) |
-| [3351-maximize-happiness-of-selected-children](https://github.com/krzysztof400/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
-## Greedy
-|  |
-| ------- |
-| [3351-maximize-happiness-of-selected-children](https://github.com/krzysztof400/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
-<!---LeetCode Topics End-->
+This repository contains my solutions to LeetCode problems.
+
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+
+ Happy coding! 🚀
