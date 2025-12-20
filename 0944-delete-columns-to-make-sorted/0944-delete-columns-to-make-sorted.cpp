@@ -12,12 +12,4 @@ public:
         }
         return count;
     }
-    bool isSortedLex(string str, int len_of_string){
-        for(int i = 0; i<len_of_string-1; i++){
-            if((int)str[i+1] - (int)str[i] < 0){
-                return false;
-            }
-        }
-        return true;
-    }
 };
