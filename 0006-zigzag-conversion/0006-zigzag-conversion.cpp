@@ -8,7 +8,7 @@ public:
             return s;
         }
         else{
-            maxCol = ceil((float)(size+1)/(2*numRows-2));
+            maxCol = (size + 2*numRows-2)/(2*numRows-2);
         }
         printf("col: %d, size: %d", maxCol, size);
         for (int row = 0; row<numRows; row++) {
