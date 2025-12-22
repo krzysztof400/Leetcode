@@ -12,7 +12,7 @@ public:
             }
         }
         int max = 0;
-        for(int val : longest_subset_ending_at){
+        for(const int& val : longest_subset_ending_at){
             if(val > max){
                 max = val;
             }
