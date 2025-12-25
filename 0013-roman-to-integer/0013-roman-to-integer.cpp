@@ -15,12 +15,12 @@ public:
         for (int i = 0; i<size; i++) {
             int current = map[s[i]];
             int next;
-            if(i == size){
-                next = 1;
-            }
-            else {
+            // if(i == size){
+            //     next = 1;
+            // }
+            // else {
                 next = map[s[i+1]];
-            }
+            // }
             if(current >= next) {
                 sign = 1;
             }
