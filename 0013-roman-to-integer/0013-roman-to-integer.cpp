@@ -1,7 +1,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        size_t size = s.size();
+        int size = s.size();
         unordered_map<char,int> map;
         map['I'] = 1;
         map['V'] = 5;
@@ -12,21 +12,16 @@ public:
         map['M'] = 1000;
         int sign = 1;
         int sum = 0;
-        for (int i = 0; i<size; i++) {
+        int prev;
+        for (int i = size; i>=0; i--) {
             int current = map[s[i]];
-            int next;
-            // if(i == size){
-            //     next = 1;
-            // }
-            // else {
-                next = map[s[i+1]];
-            // }
-            if(current >= next) {
+            if(current >= prev) {
                 sign = 1;
             }
             else {
                 sign = -1;
             }
+            prev = current;
             sum += current*sign;
         }
         return sum;
