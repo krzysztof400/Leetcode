@@ -18,12 +18,12 @@ public:
             }
         }
         pen.insert(pen.begin(),0);
-        for (int& val : pen){
-            printf("%d", val);
-        }
-        printf("\n");
+        // for (int& val : pen){
+        //     printf("%d", val);
+        // }
+        // printf("\n");
         int totalY = pen[size];
-        printf("%d\n", totalY);
+        // printf("%d\n", totalY);
         int min = 1000000;
         int min_idx = 0;
         for(int i =0; i<size+1; i++) {
@@ -36,9 +36,9 @@ public:
                 min_idx = i;
             }
         }
-        for (int& val : pen){
-            printf("%d", val);
-        }
+        // for (int& val : pen){
+        //     printf("%d", val);
+        // }
         return min_idx;
     }
 };
