@@ -4,7 +4,7 @@ public:
         unordered_set<int> hash_map (nums.begin(), nums.end());
 
         int max_len = 0;
-        int current_len = 0;
+        int current_len;
         int current_num;
         
         for(int num : hash_map) {
@@ -20,8 +20,6 @@ public:
                 max_len = max(max_len, current_len);
             }
         }
-        return max_len;
-
         return max_len;
     }
 };
