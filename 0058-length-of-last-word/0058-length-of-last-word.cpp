@@ -7,7 +7,7 @@ public:
 
         int count = 0;
         cout << n;
-        for(n; s[n] != ' ' && n >= 0; --n) { ++count; }
+        for(n; n >= 0 && s[n] != ' '; --n) { ++count; }
         return count;
     }
 };
