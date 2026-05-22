@@ -1,0 +1,48 @@
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        int n = nums.size();
+        int left = 0;
+        int right = n-1;
+        int mid;
+        int idx = -1;
+        while(right >= left) {
+            mid = (left+right) / 2;
+            printf("right: %d, left: %d, mid: %d \n", right, left, mid);
+            // found
+            if(nums[mid] == target) {
+                idx = mid;
+                break;
+            }
+            else if (nums[mid] > target) {
+                // normal bs
+                if (nums[right] >= target && nums[mid] > nums[right]) {
+                    left = mid+1;
+                }
+                else {
+                    right = mid-1;
+                }
+                // // our 
+                // else if (nums[left] < target) {
+                //     right = mid-1;
+                // }
+            }
+            else if (nums[mid] < target) {
+                // normal bs
+                if (target >= nums[left] && nums[left] > nums[mid]) {
+                    right = mid-1;
+                }
+                else {
+                    left = mid+1;
+                }
+                // if (nums[mid] < nums[right] && nums[right] > target) {
+                //     left = mid+1;
+                // }
+                // else if(nums[right] < target) {
+                //     right = mid-1;
+                // }
+            }
+        }
+        return idx;
+    }
+};
