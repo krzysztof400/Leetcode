@@ -1,11 +1,13 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
+        int n = nums.size();
         int left = 0;
-        int right = nums.size()-1;
+        int right = n-1;
+        int mid;
         int idx = -1;
         while(right >= left) {
-            int mid = (left+right) / 2;
+            mid = (left+right) / 2;
             // printf("right: %d, left: %d, mid: %d \n", right, left, mid);
             // found
             if(nums[mid] == target) {
