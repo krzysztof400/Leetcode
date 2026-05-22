@@ -3,10 +3,9 @@ public:
     int search(vector<int>& nums, int target) {
         int left = 0;
         int right = nums.size()-1;
-        int mid;
         int idx = -1;
         while(right >= left) {
-            mid = (left+right) / 2;
+            int mid = (left+right) / 2;
             // printf("right: %d, left: %d, mid: %d \n", right, left, mid);
             // found
             if(nums[mid] == target) {
