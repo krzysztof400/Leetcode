@@ -25,9 +25,9 @@ public:
                 jumps.push_back(indices[i] - j);
             }
             int max_jump = 0;
-            printf("\n %d:      ", i);
+            // printf("\n %d:      ", i);
             for (int j : jumps) {
-                printf("%d, ", j);
+                // printf("%d, ", j);
                 max_jump = max(max_jump, DP[j]);
             }
             DP[indices[i]] = 1 + max_jump;
