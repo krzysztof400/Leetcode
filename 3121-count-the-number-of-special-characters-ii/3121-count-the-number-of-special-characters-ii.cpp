@@ -6,7 +6,7 @@ public:
             // if (map[c - 'a'] == 3){
             //     continue;
             // }
-            if (islower(c)){
+            if (islower(c)) {
                 if(map[c - 'a'] == 2 || map[c - 'a'] == 3) {
                     map[c - 'a'] = 3;
                 }
