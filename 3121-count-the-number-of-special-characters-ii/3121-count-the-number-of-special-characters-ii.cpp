@@ -12,12 +12,13 @@ public:
         // }
         int count = 0;
         for(int i = 0; i<word.length(); ++i) {
-            if(isupper(word[i]) && map.find(tolower(word[i])) != map.end()){
+            char c = word[i];
+            if(isupper(c) && map.find(tolower(c)) != map.end()){
                 if (map[tolower(word[i])] < i) {
                     // printf("\n%c, %d", word[i], i);
                     count++;
                 }
-                map[tolower(word[i])] = 200001;
+                map[tolower(c)] = 200001;
             }
         }
         return count;
