@@ -10,7 +10,9 @@ public:
             }
             if(sum == 1) { return 1; }
             // n = sum;
-            minim = min(minim, sum);
+            if (sum<minim) {
+                minim = sum;
+            }
             sum =0;
         }
         return minim;
