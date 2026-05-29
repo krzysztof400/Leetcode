@@ -8,9 +8,9 @@ public:
                 sum += n%10;
                 n /= 10;
             }
-            if(sum == 1) { return 1; }
             // n = sum;
             if (sum<minim) {
+                if(sum == 1) { return 1; }
                 minim = sum;
             }
             sum =0;
