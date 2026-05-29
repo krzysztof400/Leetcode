@@ -8,9 +8,9 @@ public:
                 sum += n%10;
                 n /= 10;
             }
-            n = sum;
+            // n = sum;
+            minim = min(minim, sum);
             sum =0;
-            minim = min(minim, n);
         }
         return minim;
     }
