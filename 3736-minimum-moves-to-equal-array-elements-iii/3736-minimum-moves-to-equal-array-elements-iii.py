@@ -4,4 +4,4 @@ class Solution:
         result = 0 
         for i in range(len(nums)):
             result = result + (maxel - nums[i])
-        return result
+        return sum(maxel - num for num in nums)
