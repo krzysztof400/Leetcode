@@ -10,11 +10,11 @@ public:
     }
     
     string get(string key, int timestamp) const {
-        auto ts = outerMap.find(key);
-        if(ts == outerMap.end()) return "";
-        const auto& it = ts->second;
-        auto s = it.upper_bound(timestamp);
-        if(s == it.begin()) return "";
+        auto underKey = outerMap.find(key);
+        if(underKey == outerMap.end()) return "";
+        const auto& timestamps = underKey->second;
+        auto s = timestamps.upper_bound(timestamp);
+        if(s == timestamps.begin()) return "";
         return prev(s)->second;
     }
 };
