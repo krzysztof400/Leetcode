@@ -2,6 +2,10 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
+        int m = prerequisites.size();
+
+        if (m > (n*(n+1))/2) return false;
+        // CSR and check for max edges size
         int completed = 0;
         
         vector<vector<int>> adj(n);
@@ -28,6 +32,5 @@ public:
             }
         }
         return completed == n;
-        // basiclly return false if there is cycle
     }
 };
