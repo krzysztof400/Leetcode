@@ -21,19 +21,21 @@ public:
             degrees[prerequisites[i][0]]++;
         }
 
-        queue<int> Q;
+        vector<int> Q;
+        Q.reserve(n);
+        
         for(int i =0; i<n; ++i) {
             if(degrees[i] == 0) {
-                Q.push(i);
+                Q.emplace_back(i);
             }
         }
         while(!Q.empty()) {
-            int curr = Q.front();
-            Q.pop();
+            int curr = Q.back();
+            Q.pop_back();
             completed++;
             for(int e = head[curr]; e != -1; e = nxt[e]) {
                 if(--degrees[to[e]] == 0) {
-                    Q.push(to[e]);
+                    Q.emplace_back(to[e]);
                 } 
             }
         }
