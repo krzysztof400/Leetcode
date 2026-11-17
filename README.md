@@ -41,16 +41,19 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 | ------- |
 | [0207-course-schedule](https://github.com/krzysztof400/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krzysztof400/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krzysztof400/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krzysztof400/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krzysztof400/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krzysztof400/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -68,8 +71,17 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
