@@ -9,6 +9,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 | [2126-destroying-asteroids](https://github.com/krzysztof400/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krzysztof400/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/krzysztof400/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -47,6 +48,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 | ------- |
 | [0207-course-schedule](https://github.com/krzysztof400/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krzysztof400/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -84,4 +86,16 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
