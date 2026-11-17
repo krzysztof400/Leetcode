@@ -2,20 +2,15 @@ class MedianFinder {
 private:
     priority_queue<int> smaller;
     priority_queue<int, vector<int>, greater<int>> bigger;
-    bool odd = false;
 public:
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        if (smaller.size() == 0) {
+        if(smaller.empty() || num<=smaller.top()) {
             smaller.push(num);
-            odd = true;
-            return;
-        }
-
-        if(num<=smaller.top()) smaller.push(num);
+        } 
         else bigger.push(num);
 
         if(smaller.size() > 1 + bigger.size()) {
@@ -26,12 +21,10 @@ public:
             smaller.push(bigger.top());
             bigger.pop();
         }
-
-        odd = !odd;
     }
     
     double findMedian() {
-        if(odd) {
+        if(smaller.size() > bigger.size()) {
             return smaller.top();
         }
         else {
