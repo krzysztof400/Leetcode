@@ -10,6 +10,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2126-destroying-asteroids](https://github.com/krzysztof400/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krzysztof400/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/krzysztof400/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -23,6 +24,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2126-destroying-asteroids](https://github.com/krzysztof400/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Math
 |  |
@@ -75,6 +77,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
 | [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
@@ -105,6 +108,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## String
@@ -119,4 +123,20 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
