@@ -18,10 +18,9 @@ public:
             auto [weight, node] = pq.top();
             pq.pop();
             if(visited[node]) continue;
-            // printf("node: %d, weight: %d\n", node, weight);
             for(const auto& nei : neig[node]) {
-                if(!visited[nei.first]) {
-                    cost[nei.first] = min(cost[nei.first], weight + nei.second);
+                if(!visited[nei.first] && weight + nei.second < cost[nei.first]) {
+                    cost[nei.first] = weight + nei.second;
                     pq.emplace(cost[nei.first], nei.first);
                 }
             }
@@ -32,9 +31,6 @@ public:
                 return -1;
             }
         }
-        // for(const int& wei : cost) {
-        //     printf("%d, ", wei);
-        // }
         return *max_element(cost.begin()+1, cost.end());
     }
 };
