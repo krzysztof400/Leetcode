@@ -7,8 +7,6 @@ public:
         if (m > (n*(n+1))/2) return false;
         int completed = 0;
         
-        vector<vector<int>> adj(n);
-
         vector<int> head(n, -1);
         vector<int> nxt(m);
         vector<int> to(m);
@@ -23,7 +21,7 @@ public:
 
         vector<int> Q;
         Q.reserve(n);
-        
+
         for(int i =0; i<n; ++i) {
             if(degrees[i] == 0) {
                 Q.emplace_back(i);
