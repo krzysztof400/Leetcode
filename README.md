@@ -70,15 +70,18 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/krzysztof400/Leetcode/tree/master/0743-network-delay-time) |
+| [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Shortest Path
 |  |
 | ------- |
@@ -103,6 +106,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## String
 |  |
 | ------- |
@@ -111,4 +115,8 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
