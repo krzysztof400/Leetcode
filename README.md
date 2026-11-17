@@ -9,6 +9,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2126-destroying-asteroids](https://github.com/krzysztof400/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -96,6 +97,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -118,6 +120,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Ordered Set
 |  |
@@ -139,4 +142,8 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
