@@ -2,7 +2,7 @@ class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         vector<int> tails;
-        // tails.reserve(sqrt(nums.size()));
+        tails.reserve(sqrt(nums.size()));
 
         for(int i = 0; i<nums.size(); ++i) {
             int siz = tails.size();
