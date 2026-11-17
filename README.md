@@ -21,6 +21,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2126-destroying-asteroids](https://github.com/krzysztof400/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krzysztof400/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -58,4 +60,16 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/krzysztof400/Leetcode/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
