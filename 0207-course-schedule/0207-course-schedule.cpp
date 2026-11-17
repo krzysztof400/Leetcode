@@ -5,16 +5,22 @@ public:
         int m = prerequisites.size();
 
         if (m > (n*(n+1))/2) return false;
-        // CSR and check for max edges size
         int completed = 0;
         
         vector<vector<int>> adj(n);
-        vector<int> degrees(n);
 
-        for(const vector<int>& req : prerequisites) {
-            adj[req[1]].emplace_back(req[0]);
-            degrees[req[0]]++;
+        vector<int> head(n, -1);
+        vector<int> nxt(m);
+        vector<int> to(m);
+        vector<int> degrees(n);        
+
+        for(int i = 0; i<m; ++i) {
+            to[i] = prerequisites[i][0];
+            nxt[i] = head[prerequisites[i][1]];
+            head[prerequisites[i][1]] = i;
+            degrees[prerequisites[i][0]]++;
         }
+
         queue<int> Q;
         for(int i =0; i<n; ++i) {
             if(degrees[i] == 0) {
@@ -25,9 +31,9 @@ public:
             int curr = Q.front();
             Q.pop();
             completed++;
-            for(int& nei : adj[curr]) {
-                if(--degrees[nei] == 0) {
-                    Q.push(nei);
+            for(int e = head[curr]; e != -1; e = nxt[e]) {
+                if(--degrees[to[e]] == 0) {
+                    Q.push(to[e]);
                 } 
             }
         }
