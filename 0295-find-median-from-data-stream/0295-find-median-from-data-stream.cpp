@@ -28,7 +28,7 @@ public:
             return smaller.top();
         }
         else {
-            return ((double)bigger.top() + (double)smaller.top()) / 2;
+            return (static_cast<double>(bigger.top()) + smaller.top()) / 2;
         }
     }
 };
