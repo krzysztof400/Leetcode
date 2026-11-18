@@ -12,6 +12,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 | [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/krzysztof400/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2126-destroying-asteroids](https://github.com/krzysztof400/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krzysztof400/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/krzysztof400/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -111,6 +112,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/krzysztof400/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/krzysztof400/Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## String
@@ -146,4 +148,8 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/krzysztof400/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
