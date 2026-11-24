@@ -9,6 +9,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krzysztof400/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -35,6 +36,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krzysztof400/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/krzysztof400/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krzysztof400/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -98,6 +100,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krzysztof400/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/krzysztof400/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krzysztof400/Leetcode/tree/master/0322-coin-change) |
 ## Knapsack Problem
@@ -152,4 +155,12 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/krzysztof400/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krzysztof400/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krzysztof400/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
