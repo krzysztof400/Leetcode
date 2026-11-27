@@ -35,6 +35,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krzysztof400/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krzysztof400/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Depth-First Search
 |  |
@@ -128,6 +130,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/krzysztof400/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0412-fizz-buzz](https://github.com/krzysztof400/Leetcode/tree/master/0412-fizz-buzz) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
