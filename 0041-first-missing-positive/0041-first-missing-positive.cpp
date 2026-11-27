@@ -10,7 +10,7 @@ public:
         for(int x : nums) {
             int v = abs(x);
             if(v <= n && nums[v-1] >0) {
-                nums[v-1] *= -1;
+                nums[v-1] = -nums[v-1];
             }
         }
 
