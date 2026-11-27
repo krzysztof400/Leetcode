@@ -9,6 +9,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/krzysztof400/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/krzysztof400/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krzysztof400/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/krzysztof400/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -117,6 +118,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/krzysztof400/Leetcode/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/krzysztof400/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
