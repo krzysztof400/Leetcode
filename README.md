@@ -119,6 +119,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/krzysztof400/Leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/krzysztof400/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/krzysztof400/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/krzysztof400/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -126,6 +127,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/krzysztof400/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0981-time-based-key-value-store](https://github.com/krzysztof400/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@ Created with LeetHub v3 and LeetPush, you can see more on my [leetcode](https://
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/krzysztof400/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/krzysztof400/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
