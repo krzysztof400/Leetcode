@@ -23,6 +23,7 @@ public:
                 if(corRig - corLef >= right - left) {
                     corLef = left;
                     corRig = right;
+                    if (left - right + 1 == n) break;
                 }
                 inT[s[left++]]++;
             }
